@@ -24,7 +24,7 @@ To cite this Article or Artifact - use:
   - [Codebook](#codebook-1)
   - [Evolution of Codebook Tooling](#evolution-of-codebook-tooling)
   - [Evolution of Codebook ALL](#evolution-of-codebook-all)
-  - [Rater A, Rater B](#rater-a-b)
+  - [Rater A, Rater B](#rater-a-rater-b)
   - [Reliability (Rater A - Rater B)](#reliability-rater-a---rater-b)
   - [CODE PER SUBJECTS- TOOLING](#code-per-subjects--tooling)
   - [Code Saturation- (Tooling)](#code-saturation--tooling)
@@ -33,15 +33,14 @@ To cite this Article or Artifact - use:
   - [Driver (Push-Pull-Barrier) Map](#driver-push-pull-barrier-map)
   - [Interview Protocol](#interview-protocol)
 - [Technical Report](#technical-report)
-  - [Appendix \& Technical Report Notes](#appendix--technical-report-notes)
   - [Summary of Appendix Items](#summary-of-appendix-items)
   - [Tables Included in the Technical Report](#tables-included-in-the-technical-report)
   - [Additional Notes](#additional-notes)
 
 
 # CODEBOOK
-Filename - codebook.xlsx
-This spreadsheet contains data, coding frameworks, and analysis results from the study *"Why Johnny Signs with Next-Generation Tools."* Below is a summary of each sheet in the workbook:
+**Filename:**  `codebook.xlsx`
+This spreadsheet contains data, coding frameworks, and analysis results from our study. Below is a summary of each sheet in the workbook:
 
 ## Codebook
 Contains the finalized coding scheme used in the analysis of our coded interviews. It defines each code and categorizes them under major themes such as Technological, Organizational, Human, and Macroenvironmental factors.
@@ -78,8 +77,6 @@ This summarizes our interview protocol for the entire study, with changes made f
 
 # Technical Report  
 **Filename:** `Technical-Report.pdf`
-
-## Appendix & Technical Report Notes
 
 This technical report is an **extended version** of our paper submitted to **USENIX Security 2026**.  
 It provides additional methodological detail, expanded results, and supporting artifacts that complement the main paper but could not be included due to space constraints.
